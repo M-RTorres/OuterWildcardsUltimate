@@ -1,0 +1,14 @@
+{
+	"id": "outerWildcardsU",
+	"name": "Outer Wildcards (ultimate)",
+	"display_name": "Outer Wildcards",
+	"author": ["The Creature"],
+	"description": "* There's more to score here...",
+	"prefix": "owcu",
+	"main_file": "owc.lua",
+	"priority": 0,
+	"badge_colour": "666688",
+	"badge_text_colour": "ff9955",
+	"version": "1.0.0",
+	"dependencies": [],
+}
